@@ -1,4 +1,4 @@
-### Oii 👋
+### Heyyy, tudo bem? <img src='https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif' width='50'>
 
 Sou formada em desenvolvimento front-end pela {Reprograma}, e este aqui é o meu portfolio =)
 
