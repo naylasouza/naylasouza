@@ -1,0 +1,35 @@
+body{
+    font-family: 'Noticia Text', serif;
+    background-color: #eae5e5
+}
+.navbar{
+width:100%;
+padding-left: 10%;
+}
+.redes{
+    text-align: right;
+    font-size: 30px;  
+    padding: 0 20% 0 50%;
+}
+.rede_social_nav{
+    margin-right: 20px;
+    color: #66d0d3;
+}
+.imgbio{
+    width: 450px;
+    padding-left: 10%;
+    margin-top: 70px;
+    
+}
+.nome{
+    font-size: 65px; 
+    font-weight: 700;
+    margin-top: 45px;
+    margin-right: 50px;
+}
+.titulobio{
+    color: #4D4D4D;
+ }
+ /* .container_projetos{
+     background-image: url("../img/fundo.jpg");
+ } */
