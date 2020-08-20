@@ -5,6 +5,7 @@ body{
 .navbar{
 width:100%;
 padding-left: 10%;
+background-color: #e6dcdc;
 }
 .redes{
     text-align: right;
@@ -16,20 +17,34 @@ padding-left: 10%;
     color: #66d0d3;
 }
 .imgbio{
-    width: 450px;
-    padding-left: 10%;
+    width: 350px;
     margin-top: 70px;
+    margin-left: 5%;
     
 }
 .nome{
     font-size: 65px; 
     font-weight: 700;
-    margin-top: 45px;
+    margin-top: 44px;
     margin-right: 50px;
+    margin-left: 13px;
+}
+.sobrenome{
+margin-bottom: 20px;
+margin-left: 13px;
 }
 .titulobio{
     color: #4D4D4D;
  }
- /* .container_projetos{
-     background-image: url("../img/fundo.jpg");
- } */
+ .titulo_linha{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #e6dcdc;
+    width:100%;
+    text-align: center;
+    font-size: 30px;
+    color: #736e6e;  
+ }
+ .container_projetos{
+    padding-top: 20px;  
+ }
