@@ -51,3 +51,11 @@ margin-left: 13px;
     padding-top: 20px;
     background-color: #e6dcdc;  
  }
+ .footer{
+    background-color: #e6dcdc;
+    text-align: center;
+    color: #736e6e;
+    font-size: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
