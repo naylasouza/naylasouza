@@ -7,6 +7,9 @@ width:100%;
 padding-left: 10%;
 background-color: #e6dcdc;
 }
+.btn_menu {
+    background-color: #4D4D4D;
+}
 .redes{
     text-align: right;
     font-size: 30px;  
@@ -21,7 +24,6 @@ background-color: #e6dcdc;
     margin-top: 70px;
     margin-left: 5%;
     padding-bottom: 25px;
-    
 }
 .nome{
     font-size: 65px; 
