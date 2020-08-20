@@ -14,12 +14,13 @@ background-color: #e6dcdc;
 }
 .rede_social_nav{
     margin-right: 20px;
-    color: #66d0d3;
+    color: #4D4D4D;
 }
 .imgbio{
     width: 350px;
     margin-top: 70px;
     margin-left: 5%;
+    padding-bottom: 25px;
     
 }
 .nome{
@@ -38,13 +39,13 @@ margin-left: 13px;
  }
  .titulo_linha{
     padding-top: 25px;
-    padding-bottom: 25px;
-    background-color: #e6dcdc;
+    padding-bottom: 35px;
     width:100%;
     text-align: center;
     font-size: 30px;
     color: #736e6e;  
  }
  .container_projetos{
-    padding-top: 20px;  
+    padding-top: 20px;
+    background-color: #e6dcdc;  
  }
