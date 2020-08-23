@@ -1,5 +1,4 @@
 body{
-    /* font-family: 'Noticia Text', serif; */
     font-family: 'Playfair Display', serif;
     background-color: white
 }
@@ -8,7 +7,6 @@ width:100%;
 padding-left: 10%;
 background-color: #ffe9cb;
 }
-
 .btn_menu {
     background-color: #4D4D4D;
 }
@@ -66,7 +64,7 @@ margin-left: 13px;
     top: -10px;
     left: 20px;
 }
-.btn_contato:after{
+.btn_contato:after {
     position: absolute;
     top: 10px;
     left: 10px;
@@ -75,8 +73,7 @@ margin-left: 13px;
     background-color: #fac779;
     content: "";
     z-index: -1;
-    transition: transform .1s ease-in,width .1s ease-out .1s;
-        
+    transition: transform .1s ease-in,width .1s ease-out .1s;    
 }
  .container_projetos {
     padding-top: 20px;
@@ -85,23 +82,19 @@ margin-left: 13px;
  }
  .container_experiencias{
     background-color: #fff;
-
  }
  .imagemfundo{
     background-color: #fff;
     position: absolute;
-    bottom: 571px;
+    bottom: 631px;
     left: -76px;
     width: 365px;
-    
-
  }
  .container_experiencias{
      background-color: #fff;
      width: 100%;
      padding: 0;
-     margin-top: 0;
-     
+     margin-top: 0;   
  }
  .title{
      margin: 40px;
@@ -121,8 +114,7 @@ margin-left: 13px;
      left: 50%;
      width: 2px;
      height: 100%;
-     background: #c5c5c5;
-     
+     background: #c5c5c5; 
  }
  .timeline ul{
      margin: 0;
@@ -154,7 +146,6 @@ margin-left: 13px;
     height: 20px;
     background: #fac779;
     border-radius: 50%;
-
 }
 .timeline ul li:nth-child(even)::before{
     content: '';
@@ -203,7 +194,51 @@ margin-left: 13px;
     color: #fff;
     border-radius: 18px;
 }
-
+.container_conhecimentos{
+    margin-bottom: 60px;
+}
+.imagemfundoconhecimentos{
+    position: absolute;
+    width: 460px;
+    bottom: -52px;
+    left: 15px;
+}
+.listaconhecimentos{
+    background-color: transparent;
+    color: #000;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 4px 10px;
+    border:1px solid #3d3c99;
+    margin-bottom: 58px;
+}
+.conhecimentostitulo{
+    margin-bottom: 80px;
+    padding-top: 25px;
+    width:100%;
+    text-align: center;
+    font-size: 30px;
+    color: #736e6e;  
+}
+.tituloskil{
+    font-size: 21px;
+    font-family: 'Noticia Text', serif;
+    margin-bottom: 58px;
+    text-align: center;
+}
+.segundacolunaskil{
+    margin-bottom: 80px;
+}
+li{
+    float:left;
+    list-style-type: none;
+    margin-bottom: 14px;
+    margin-left: 14px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
  .footer{
     background-color: #ffe9cb;
     text-align: center;
@@ -212,3 +247,4 @@ margin-left: 13px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
