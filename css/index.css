@@ -12,8 +12,7 @@ background-color: #ffe9cb;
 }
 .redes{
     text-align: right;
-    font-size: 30px;  
-    padding: 0 20% 0 50%;
+    font-size: 30px;
 }
 .rede_social_nav{
     margin-right: 20px;
@@ -229,7 +228,7 @@ margin-left: 13px;
 .segundacolunaskil{
     margin-bottom: 80px;
 }
-li{
+.ulskill li{
     float:left;
     list-style-type: none;
     margin-bottom: 14px;
