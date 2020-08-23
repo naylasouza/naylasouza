@@ -5,7 +5,7 @@ body{
 .navbar{
 width:100%;
 padding-left: 10%;
-background-color: #ffe9cb;
+background-color: #fff;
 }
 .btn_menu {
     background-color: #4D4D4D;
@@ -85,9 +85,9 @@ margin-left: 13px;
  .imagemfundo{
     background-color: #fff;
     position: absolute;
-    bottom: 631px;
+    bottom: 585px;
     left: -76px;
-    width: 365px;
+    width: 349px;
  }
  .container_experiencias{
      background-color: #fff;
@@ -239,11 +239,12 @@ ul{
     margin: 0;
 }
  .footer{
-    background-color: #ffe9cb;
+    background-color: #39388f;
     text-align: center;
-    color: #736e6e;
-    font-size: 15px;
+    color: #fff;
+    font-size: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
+    font-family: 'Noticia Text', serif;
 }
 
