@@ -1,12 +1,14 @@
 body{
-    font-family: 'Noticia Text', serif;
-    background-color: #eae5e5
+    /* font-family: 'Noticia Text', serif; */
+    font-family: 'Playfair Display', serif;
+    background-color: white
 }
 .navbar{
 width:100%;
 padding-left: 10%;
-background-color: #e6dcdc;
+background-color: #ffe9cb;
 }
+
 .btn_menu {
     background-color: #4D4D4D;
 }
@@ -23,7 +25,7 @@ background-color: #e6dcdc;
     width: 350px;
     margin-top: 70px;
     margin-left: 5%;
-    padding-bottom: 25px;
+    padding-bottom: 62px;
 }
 .nome{
     font-size: 65px; 
@@ -39,6 +41,10 @@ margin-left: 13px;
 .titulobio{
     color: #4D4D4D;
  }
+ span{
+     font-size: 23px;
+     margin-bottom: 10px;
+ }
  .titulo_linha{
     padding-top: 25px;
     padding-bottom: 35px;
@@ -47,10 +53,55 @@ margin-left: 13px;
     font-size: 30px;
     color: #736e6e;  
  }
- .container_projetos{
+ .btn_contato{
+    border: 3px solid #000;
+    padding: 12px 20px;
+    position: relative;
+    background-color: transparent;
+    color: #000;
+    z-index: 2;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    top: -10px;
+    left: 20px;
+}
+.btn_contato:after{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: #fac779;
+    content: "";
+    z-index: -1;
+    transition: transform .1s ease-in,width .1s ease-out .1s;
+        
+}
+ .container_projetos {
     padding-top: 20px;
     padding-bottom: 50px;
-    background-color: #e6dcdc;  
+    background-color: #ffe9cb;  
+ }
+ .container_experiencias{
+    background-color: #fff;
+
+ }
+ .imagemfundo{
+    background-color: #fff;
+    position: absolute;
+    bottom: 571px;
+    left: -76px;
+    width: 365px;
+    
+
+ }
+ .container_experiencias{
+     background-color: #fff;
+     width: 100%;
+     padding: 0;
+     margin-top: 0;
+     
  }
  .title{
      margin: 40px;
@@ -71,6 +122,7 @@ margin-left: 13px;
      width: 2px;
      height: 100%;
      background: #c5c5c5;
+     
  }
  .timeline ul{
      margin: 0;
@@ -100,17 +152,18 @@ margin-left: 13px;
     right: -11px;
     width: 20px;
     height: 20px;
-    background: #fff;
+    background: #fac779;
     border-radius: 50%;
+
 }
 .timeline ul li:nth-child(even)::before{
     content: '';
     position: absolute;
     top: 24px;
-    right: 632px;
+    right: 620px;
     width: 20px;
     height: 20px;
-    background: #fff;
+    background: #fac779;
     border-radius: 50%;
 }
 .timeline ul li h3{
@@ -123,6 +176,7 @@ margin-left: 13px;
     margin: 10px 0 0;
     padding: 0;
     line-height: 1.7;
+    
 }
 .timeline ul li h4{
     margin:  0;
@@ -135,7 +189,7 @@ margin-left: 13px;
     right: -205px;
     margin: 0;
     padding: 8px 16px;
-    background: #4D4D4D;
+    background: #ffd799;
     color: #fff;
     border-radius: 18px;
 }
@@ -145,17 +199,16 @@ margin-left: 13px;
     left: -181px;
     margin: 0;
     padding: 8px 16px;
-    background: #4D4D4D;
+    background: #ffd799;
     color: #fff;
     border-radius: 18px;
 }
 
-
  .footer{
-    background-color: #e6dcdc;
+    background-color: #ffe9cb;
     text-align: center;
     color: #736e6e;
     font-size: 15px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
