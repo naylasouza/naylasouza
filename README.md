@@ -17,10 +17,9 @@
 
 ---
 
-
 ### Projetos Recentes
-- **[Plataforma de Empregabilidade](#):** Uma solução para gestão de processos seletivos, incluindo backend com Node.js e frontend com React.
-- **[CIC Controle](#):** Proposta de gamificação para melhorar o engajamento em uma plataforma de controle financeiro.
+- **<a href="#" target="_blank">Plataforma de Empregabilidade</a>:** Uma solução para gestão de processos seletivos, incluindo backend com Node.js e frontend com React.
+- **<a href="#" target="_blank">CIC Controle</a>:** Proposta de gamificação para melhorar o engajamento em uma plataforma de controle financeiro.
 
 ---
 
@@ -34,10 +33,10 @@
 
 ### Vamos conversar?
 <div>
-  <a href="https://www.linkedin.com/in/naylasouzaribeiro/">
+  <a href="https://www.linkedin.com/in/naylasouzaribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nayla.dev@gmail.com">
+  <a href="mailto:naylasouzariibeiro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </div>
