@@ -1,7 +1,7 @@
 # Olá! Eu sou a Nayla 
 
 <p align="center">
-  Desenvolvedora Full Stack em formação pela FIAP, apaixonada por transformar ideias em realidade através do código. Minha jornada na programação é guiada pela curiosidade, aprendizado contínuo e o desejo de construir interfaces intuitivas e sistemas robustos.
+  Desenvolvedora Full Stack formada pela FIAP, apaixonada por transformar ideias em realidade através do código. Minha jornada na programação é guiada pela curiosidade, aprendizado contínuo e o desejo de construir interfaces intuitivas e sistemas robustos.
 </p>
 
 ---
