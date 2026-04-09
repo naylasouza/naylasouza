@@ -36,9 +36,7 @@ Minha grande paixão é o desenvolvimento front-end, onde busco criar interfaces
 
 ---
 
-### Vamos conversar?!
-
-Estou sempre aberta a novas ideias, colaborações e oportunidades. Sinta-se à vontade para me procurar:
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naylasouzaribeiro/" target="_blank">
@@ -49,8 +47,3 @@ Estou sempre aberta a novas ideias, colaborações e oportunidades. Sinta-se à 
   </a>
 </div>
 
----
-
-<p align="center">
-  Feito com dedicação por Nayla Souza Ribeiro
-</p>
